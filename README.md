@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Sadia 👋
 
-<!--
-**sadiatasnim-dev/sadiatasnim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student currently learning
+Python, Data Structures & Algorithms, and Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
+
+### Skills
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+
+### Projects
+
+- CaratTunes — Music Streaming Website
+- More projects coming soon...
+
+### My Goal
+
+To continuously improve my programming skills, build meaningful projects,
+and grow as a software developer.
+
+### Connect with Me
+
+- LinkedIn: Coming soon
